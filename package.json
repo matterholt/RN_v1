@@ -1,0 +1,22 @@
+{
+  "name": "rn_v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matterholt/RN_v1.git"
+  },
+  "author": "MAtterholt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matterholt/RN_v1/issues"
+  },
+  "homepage": "https://github.com/matterholt/RN_v1#readme",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  }
+}
